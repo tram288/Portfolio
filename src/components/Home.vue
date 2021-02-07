@@ -35,7 +35,7 @@
         <Timeline />
       </div>
       <div id="contact">
-        <Footer />  
+        <Footer />
       </div>
     </div>
   </div>
@@ -87,5 +87,10 @@ export default {
   height: 100vh;
   scroll-behavior: smooth;
   overflow-y: scroll;
+
+  /* Mobile display */
+  min-width: 1100px;
+  width: auto !important;
+  width: 1100px;
 }
 </style>

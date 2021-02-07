@@ -1,7 +1,7 @@
 <template>
   <div class="card middle">
     <div class="front">
-      <img src="../assets/IMG_3141.png" />
+      <img src="../assets/Me.png" />
     </div>
     <div class="back">
       <div class="back-content middle">
@@ -41,10 +41,10 @@ body {
 }
 .card {
   cursor: pointer;
-  width: 200px;
-  height: 300px;
+  width: 250px;
+  height: 330px;
   border: none;
-
+  
   /* 
   height: 480px;
   width: 340px;
@@ -60,6 +60,7 @@ body {
   backface-visibility: hidden;
   position: absolute;
   transition: transform 0.6s linear;
+  clip-path: circle(); 
 }
 .front img {
   height: 100%;
