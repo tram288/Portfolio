@@ -68,9 +68,11 @@
           </li>
           <li>
             <div class="content">
-              <h3>Software Quality Engineer</h3>
+              <h3>Software QA Automation Engineer</h3>
               <h5>Optum</h5>
               <p>
+                - Worked with technologies including VueJs, HTML 5, CSS, JavaScript, 
+                GitHub, Selenium, .Net Framework, ASP.NET MVC.
                 - Developing Test Cases, Test Strategies and Test Plans that
                 will ensure comprehensive test coverage (Smoke, Defect,
                 Regression). <br />
