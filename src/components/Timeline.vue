@@ -7,25 +7,7 @@
     </header>
     <body>
       <div class="timeline">
-        <ul>
-          <li>
-            <div class="content">
-              <h3>Programming Instructor</h3>
-              <h5>CS Explorers, Inc.</h5>
-              <p>
-                - Taught computer science education at an elementary and middle
-                school level. <br />
-                - Encouraged concepts related to database management, server
-                fundamental, graphic design, robotics, user experience, and
-                project leadership. <br />
-                - Introduced the core principles of coding and supports the
-                growth of STEM in the community.
-              </p>
-            </div>
-            <div class="time">
-              <h4>May 2016</h4>
-            </div>
-          </li>
+        <ul>       
           <li>
             <div class="content">
               <h3>Telecom Technician</h3>
@@ -69,15 +51,13 @@
           <li>
             <div class="content">
               <h3>Software QA Automation Engineer</h3>
-              <h5>Optum</h5>
+              <h5>UnitedHealth Group</h5>
               <p>
-                - Worked with technologies including VueJs, HTML 5, CSS, JavaScript, 
-                GitHub, Selenium, .Net Framework, ASP.NET MVC.
                 - Developing Test Cases, Test Strategies and Test Plans that
                 will ensure comprehensive test coverage (Smoke, Defect,
                 Regression). <br />
                 - Write, design, and execute automated tests by creating scripts
-                that run testing function automatically through Selenium
+                that run test functions automatically through Selenium
                 WebDriver.<br />
                 - Perform API test by using web methods to validate feedback,
                 response time, and error code.<br />
@@ -87,6 +67,27 @@
             </div>
             <div class="time">
               <h4>July 2019</h4>
+            </div>
+          </li>
+          <li>
+            <div class="content">
+              <h3>Software Quality Engineer</h3>
+              <h5>Aderant</h5>
+              <p>
+                - Lead QA engineer for three products across time and billing systems. 
+                Sole tester supporting over 13 software developers. <br />
+                - Built an entire test suite of scripts, cases, and scenarios that will 
+                validate system performance according to specifications. <br />
+                - Involved in the Continuous Integration of the automation framework by 
+                developing SpecFlow and BDD test‐driven development Feature files using 
+                Gherkins.<br />
+                - Implemented POM (Page Object Model) as a part of the framework for handling 
+                dynamic and hidden web elements. <br />
+                - Extensive experience in REST API Testing using test assertions.
+              </p>
+            </div>
+            <div class="time">
+              <h4>May 2016</h4>
             </div>
           </li>
           <div style="clear: both"></div>

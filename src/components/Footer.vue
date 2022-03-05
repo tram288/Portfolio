@@ -36,7 +36,7 @@
       </div>
       <div class="flex-container3">
         <a href="https://github.com/tram288/Portfolio" target="_blank">Source Code</a>
-        <p>© 2021 Tram Nguyen</p>
+        <p>© 2022 Tram Nguyen</p>
       </div>
     </main>
   </body>
